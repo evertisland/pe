@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: evertisland/blog-test
   branch: master # Branch to update (optional; defaults to master)
 
 media_folder: "/src/pages/blog/img"
